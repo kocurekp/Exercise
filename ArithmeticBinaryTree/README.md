@@ -5,7 +5,7 @@ Given the root to such a tree, write a function to evaluate it.
 
 For example, given the following tree:
 
-    	  *
+   	      *
    	    /   \
  	   +      +
       / \    / \
