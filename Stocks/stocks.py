@@ -11,7 +11,6 @@ for x in stocks:
 	if sell == None:
 		if buy != None:
 			sell = x
-
 	if x < buy:
 		amount = [buy,sell]
 		stack.append(amount)
