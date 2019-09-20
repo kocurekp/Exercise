@@ -25,6 +25,6 @@ while stack:
 for x in range(0,len(tempString)):
 	result.append(tempString[x] + tempString2[x]) 
 
-print(result)
+print(sorted(result))
 
 
